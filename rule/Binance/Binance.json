@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "binance.cloud",
+        "binance.me",
+        "binancefuture.com",
+        "bnbstatic.com",
+        "bnbzh.ac",
+        "saasexch.cc",
+        "binance.com",
+        "appsflayer.com",
+        "bntrace.com",
+        "saasexch.com",
+        "binancecnt.com",
+        "bnappzh.co"
+      ]
+    }
+  ],
+  "version": 2
+}
