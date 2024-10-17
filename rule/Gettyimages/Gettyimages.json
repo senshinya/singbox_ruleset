@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gettyimages.co.jp",
+        "gettyimages.at",
+        "gettyimages.ch",
+        "gettyimages.no",
+        "gettyimages.ca",
+        "gettyimages.hk",
+        "gettyimages.ie",
+        "gettyimages.it",
+        "gettyimages.com.br",
+        "gettyimages.com.mx",
+        "gettyimages.pt",
+        "gettyimages.de",
+        "gettyimages.fi",
+        "gettyimages.com.au",
+        "gettyimages.be",
+        "gettyimages.ae",
+        "gettyimages.dk",
+        "gettyimages.fr",
+        "gettyimages.com",
+        "gettyimages.nl",
+        "gettyimages.co.uk",
+        "gettyimages.es",
+        "gettyimages.co.nz",
+        "gettyimages.se",
+        "gettyimages.in"
+      ]
+    }
+  ],
+  "version": 2
+}

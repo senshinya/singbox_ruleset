@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "supportdownload.apple.com",
+        "osxapps.itunes.apple.com",
+        "appldnld.apple.com",
+        "iosapps.itunes.apple.com",
+        "updates-http.cdn-apple.com",
+        "aod.itunes.apple.com",
+        "download.developer.apple.com",
+        "mvod.itunes.apple.com",
+        "streamingaudio.itunes.apple.com",
+        "updates.cdn-apple.com",
+        "swcdn.apple.com",
+        "oscdn.apple.com",
+        "app-site-association.cdn-apple.com",
+        "downloaddispatch.itunes.apple.com",
+        "apptrailers.itunes.apple.com"
+      ],
+      "domain_suffix": [
+        "mzstatic.com"
+      ]
+    }
+  ],
+  "version": 2
+}
