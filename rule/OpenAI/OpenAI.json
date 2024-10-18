@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "chat.openai.com.cdn.cloudflare.net",
+        "static.cloudflareinsights.com",
+        "browser-intake-datadoghq.com",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "gemini.google.com",
+        "production-openaicom-storage.azureedge.net",
+        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
+        "openai-api.arkoselabs.com"
+      ],
+      "domain_keyword": [
+        "openai"
+      ],
+      "domain_suffix": [
+        "auth0.com",
+        "turn.livekit.cloud",
+        "identrust.com",
+        "intercomcdn.com",
+        "oaiusercontent.com",
+        "chatgpt.livekit.cloud",
+        "launchdarkly.com",
+        "observeit.net",
+        "segment.io",
+        "oaistatic.com",
+        "events.statsigapi.net",
+        "intercom.io",
+        "stripe.com",
+        "featuregates.org",
+        "openaicom.imgix.net",
+        "sentry.io",
+        "openaiapi-site.azureedge.net",
+        "openai.com",
+        "ai.com",
+        "client-api.arkoselabs.com",
+        "algolia.net",
+        "chatgpt.com",
+        "api.statsig.com",
+        "host.livekit.cloud"
+      ],
+      "ip_cidr": [
+        "24.199.123.28/32",
+        "64.23.132.171/32"
+      ]
+    }
+  ],
+  "version": 2
+}
