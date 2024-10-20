@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdnpure.com",
+        "pureapk.com",
+        "apkpure.com",
+        "winudf.com"
+      ]
+    }
+  ],
+  "version": 2
+}

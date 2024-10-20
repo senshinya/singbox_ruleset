@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "apifox.com",
+        "apifox.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
