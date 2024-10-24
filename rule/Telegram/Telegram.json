@@ -1,0 +1,57 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.imem.app",
+        "api.swiftgram.app"
+      ],
+      "domain_keyword": [
+        "nicegram"
+      ],
+      "domain_suffix": [
+        "graph.org",
+        "telegram.dog",
+        "tdesktop.com",
+        "cdn-telegram.org",
+        "tx.me",
+        "stel.com",
+        "telegram.space",
+        "telegram.me",
+        "contest.com",
+        "comments.app",
+        "telegra.ph",
+        "telegram.org",
+        "telega.one",
+        "tg.dev",
+        "legra.ph",
+        "telesco.pe",
+        "mbrx.app",
+        "quiz.directory",
+        "telegram-cdn.org",
+        "usercontent.dev",
+        "telegramdownload.com",
+        "t.me"
+      ],
+      "ip_cidr": [
+        "91.108.0.0/16",
+        "2a0a:f280::/29",
+        "109.239.140.0/24",
+        "5.28.192.0/18",
+        "2001:b28:f23c::/47",
+        "149.154.160.0/20",
+        "2001:b28:f23f::/48",
+        "2001:67c:4e8::/48"
+      ]
+    },
+    {
+      "process_name": [
+        "nekox.messenger",
+        "Telegram.exe",
+        "org.telegram.messenger",
+        "tw.nekomimi.nekogram",
+        "telegram-desktop"
+      ]
+    }
+  ],
+  "version": 2
+}

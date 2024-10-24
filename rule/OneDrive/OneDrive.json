@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "onedrive",
+        "1drv",
+        "skydrive"
+      ],
+      "domain_suffix": [
+        "storage.msn.com",
+        "photos.live.com",
+        "1drv.com",
+        "sharepoint.com",
+        "storage.live.com",
+        "onedrive.com",
+        "oneclient.sfx.ms",
+        "skydrive.wns.windows.com",
+        "onedrive.live.com",
+        "livefilestore.com",
+        "sharepointonline.com",
+        "spoprod-a.akamaihd.net"
+      ]
+    },
+    {
+      "process_name": [
+        "OneDrive",
+        "OneDriveUpdater"
+      ]
+    }
+  ],
+  "version": 2
+}
