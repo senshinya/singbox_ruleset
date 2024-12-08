@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zdnscloud.com",
+        "zdnscloud.net",
+        "zdnscloud.net.cn",
+        "zcmbc.com.cn",
+        "zdnscloud.com.cn",
+        "zdnscloud.org.cn",
+        "zdnscloud.info",
+        "zdns.org.cn",
+        "zdns.net.cn",
+        "zdnscloud.biz",
+        "zdns.cn",
+        "zdnscloud.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
