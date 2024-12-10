@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dropbox.tech",
+        "paper-attachments.s3.amazonaws.com",
+        "dropboxstatic.com",
+        "dropbox-dns.com",
+        "dropboxinsiders.com",
+        "dropboxpartners.com",
+        "dropboxforum.com",
+        "dropboxmail.com",
+        "dropboxapi.com",
+        "dropboxforums.com",
+        "dropboxbusiness.com",
+        "dropbox.com",
+        "dropboxcaptcha.com",
+        "getdropbox.com",
+        "dropboxusercontent.com",
+        "dropbox.zendesk.com",
+        "db.tt"
+      ]
+    }
+  ],
+  "version": 2
+}

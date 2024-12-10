@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkbn.net",
+        "hkbn.com.hk",
+        "hkbnes.net",
+        "jos.com",
+        "speedtest.com.hk",
+        "csifund.org"
+      ]
+    }
+  ],
+  "version": 2
+}
