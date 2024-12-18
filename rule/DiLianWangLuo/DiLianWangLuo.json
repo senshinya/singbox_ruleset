@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bbbcdns.com",
+        "flxdns.com",
+        "flxdns.cn",
+        "tlgslb.com",
+        "acadn.cn",
+        "dwion.com",
+        "globalcdn.cn",
+        "tlgslb.cn",
+        "dlgslb.net",
+        "dlgslb.cn",
+        "fastcdn.com.cn",
+        "fastcdn.com",
+        "acadn.com",
+        "mcadn.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
