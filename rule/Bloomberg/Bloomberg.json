@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bmia.org",
+        "blpprofessional.com",
+        "businessweek.com",
+        "bwbx.io",
+        "bnef.com",
+        "bloombergarcade.com",
+        "citylab.com",
+        "neweconomyforum.com",
+        "londonmithraeum.com",
+        "bloomberg.com.br",
+        "bloomberg.co.kr",
+        "techatbloomberg.com",
+        "bloomberg.com",
+        "tictoc.video",
+        "quicktake.video",
+        "bloomberg.fm",
+        "businessweekmag.com",
+        "bloomberg.tv",
+        "bloombergapps.com",
+        "newenergyfinance.com",
+        "gotraffic.net",
+        "bloombergbeta.com"
+      ]
+    }
+  ],
+  "version": 2
+}
