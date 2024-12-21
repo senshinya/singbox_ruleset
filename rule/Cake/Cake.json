@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "vstatic-mycake.pstatic.net",
+        "d31wl6mro6753i.cloudfront.net",
+        "d1koerlbtsmkf8.cloudfront.net",
+        "static-mycake.pstatic.net"
+      ],
+      "domain_suffix": [
+        "cakeapp.me",
+        "mycake.me",
+        "cake.day"
+      ]
+    }
+  ],
+  "version": 2
+}

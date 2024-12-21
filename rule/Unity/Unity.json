@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "unity3dusercontent.com",
+        "multiplay.cn",
+        "unityedu.cn",
+        "unity.cn",
+        "unityedu.com.cn",
+        "unity.com",
+        "unity3d.com",
+        "unityedu.com",
+        "unitychina.cn"
+      ]
+    },
+    {
+      "process_name": [
+        "UnityHub.exe"
+      ]
+    }
+  ],
+  "version": 2
+}
