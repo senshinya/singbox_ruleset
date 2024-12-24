@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "hellofontpreview.oss-cn-beijing.aliyuncs.com",
+        "hellowebfonts.oss-cn-beijing.aliyuncs.com"
+      ],
+      "domain_suffix": [
+        "ifont.cn",
+        "hellowebfont.com",
+        "fontstar.com.cn",
+        "hanyi.com.cn",
+        "fontstudio.cn",
+        "joytype.com",
+        "hanyi.com"
+      ]
+    }
+  ],
+  "version": 2
+}
