@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cnn.com",
+        "cnnlabs.com",
+        "cnn.io",
+        "cnnarabic.com",
+        "cnn.it",
+        "cnnmoney.ch"
+      ]
+    }
+  ],
+  "version": 2
+}
