@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "arphic.com",
+        "ifontcloud.com",
+        "arphic.com.tw",
+        "arphic.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

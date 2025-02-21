@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "alkalimakersuite-pa.clients6.google.com",
+        "makersuite.google.com",
+        "generativelanguage.googleapis.com",
+        "ai.google.dev"
+      ],
+      "domain_suffix": [
+        "deepmind.com",
+        "proactivebackend-pa.googleapis.com",
+        "deepmind.google",
+        "bard.google.com",
+        "generativeai.google",
+        "gemini.google.com"
+      ]
+    }
+  ],
+  "version": 2
+}
