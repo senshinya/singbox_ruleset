@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gamedownloads-rockstargames-com.akamaized.net",
+        "rsg.sc",
+        "rockstargames.com",
+        "media-rockstargames-com.akamaized.net",
+        "videos-rockstargames-com.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}
