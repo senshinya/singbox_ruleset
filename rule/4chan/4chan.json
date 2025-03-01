@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "4channel.org",
+        "4cdn.org",
+        "4chan.org"
+      ]
+    }
+  ],
+  "version": 2
+}
