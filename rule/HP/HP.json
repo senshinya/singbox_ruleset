@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hpstore.corpmerchandise.com",
+        "hpstore-china.com",
+        "hp.com",
+        "hpstore.com"
+      ]
+    }
+  ],
+  "version": 2
+}
