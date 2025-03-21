@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cbsi.live.ott.irdeto.com",
+        "cbsservice.aws.syncbak.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "link.theplatform.com"
+      ],
+      "domain_suffix": [
+        "paramountplus.com",
+        "cbsivideo.com",
+        "pplusstatic.com",
+        "cbsi.com",
+        "cbsaavideo.com"
+      ]
+    }
+  ],
+  "version": 2
+}

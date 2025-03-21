@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "slack-core.com",
+        "slack.com",
+        "slackb.com",
+        "slackcertified.com",
+        "slackhq.com",
+        "slack-files.com",
+        "slack-msgs.com",
+        "slack-redir.net",
+        "slack-edge.com",
+        "slack-imgs.com",
+        "slackdemo.com"
+      ]
+    }
+  ],
+  "version": 2
+}
