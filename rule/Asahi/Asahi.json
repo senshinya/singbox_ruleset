@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "asahishimbun.sc.omtrdc.net"
+      ],
+      "domain_suffix": [
+        "asahi.com",
+        "aiasahi.jp",
+        "nikkansports.com",
+        "asakonet.co.jp",
+        "asahicom.jp",
+        "asagaku.com"
+      ]
+    }
+  ],
+  "version": 2
+}

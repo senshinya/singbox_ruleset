@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "imdb.to",
+        "media-imdb.com",
+        "imdb.com",
+        "boxofficemojo.com"
+      ]
+    }
+  ],
+  "version": 2
+}
