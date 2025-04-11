@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "exhentai.org",
+        "ehwiki.org",
+        "hath.network",
+        "ehgt.org",
+        "hentaiverse.org",
+        "e-hentai.org"
+      ],
+      "ip_cidr": [
+        "178.175.128.0/21"
+      ]
+    }
+  ],
+  "version": 2
+}
