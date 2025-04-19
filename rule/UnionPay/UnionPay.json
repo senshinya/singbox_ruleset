@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "unionpay.net",
+        "airepay.net",
+        "chinaunionpay.com",
+        "unionpayintl.cn",
+        "chinapayhongkong.com",
+        "95516.net",
+        "cup62.cn",
+        "95516.com",
+        "unionpaysecure.com",
+        "cup.com.cn",
+        "unionpayintl.com",
+        "chinaunionpay.com.cn",
+        "chinapay.com",
+        "unionpay.com",
+        "chinapay.cn",
+        "chinaunionpay.net"
+      ]
+    }
+  ],
+  "version": 2
+}
