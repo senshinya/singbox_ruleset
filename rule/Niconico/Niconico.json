@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmc.nico",
+        "nicovideo.jp",
+        "socdm.com",
+        "simg.jp",
+        "nimg.jp",
+        "nicoseiga.jp",
+        "nicodic.jp",
+        "nicomanga.jp",
+        "niconico.com"
+      ]
+    }
+  ],
+  "version": 2
+}
