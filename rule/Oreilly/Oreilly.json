@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "oreilly.review",
+        "oreilly.com",
+        "oreilly.com.cn",
+        "oreillystatic.com",
+        "oreil.ly",
+        "orl.ly"
+      ]
+    }
+  ],
+  "version": 2
+}

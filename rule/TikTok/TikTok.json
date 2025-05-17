@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "lf16-effectcdn.byteeffecttos-g.com",
+        "lf16-pkgcdn.pitaya-clientai.com",
+        "p16-tiktokcdn-com.akamaized.net"
+      ],
+      "domain_keyword": [
+        "tiktok",
+        "musical.ly"
+      ],
+      "domain_suffix": [
+        "isnssdk.com",
+        "tiktokd.net",
+        "sgpstatp.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "bytegecko-i18n.com",
+        "tiktokv.com",
+        "muscdn.com",
+        "tik-tokapi.com",
+        "tiktokd.org",
+        "tiktokmusic.app",
+        "musical.ly",
+        "ipstatp.com",
+        "snssdk.com",
+        "ibyteimg.com",
+        "bytedapm.com",
+        "tiktokv.us",
+        "byteoversea.com",
+        "ibytedtos.com",
+        "tiktok.com",
+        "ttwebview.com",
+        "capcut.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.zhiliaoapp.musically"
+      ]
+    }
+  ],
+  "version": 2
+}
