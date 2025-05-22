@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "steampipe.steamcontent.tnkjmec.com",
+        "st.dl.pinyuncloud.com",
+        "dota2.wmsj.cn",
+        "st.dl.bscstorage.net",
+        "steamstatic.com.8686c.com",
+        "dl.steam.ksyna.com",
+        "wmsjsteam.com",
+        "st.dl.eccdnx.com",
+        "steampowered.com.8686c.com",
+        "csgo.wmsj.cn",
+        "dl.steam.clngaa.com",
+        "xz.pphimalayanrt.com"
+      ],
+      "domain_suffix": [
+        "steamcontent.com",
+        "steamusercontent.com",
+        "cm.steampowered.com",
+        "steamchina.com",
+        "steamserver.net"
+      ]
+    }
+  ],
+  "version": 2
+}

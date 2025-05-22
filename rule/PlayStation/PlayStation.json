@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "playstation.net",
+        "playstation.com",
+        "playstationnetwork.com",
+        "sonyentertainmentnetwork.com"
+      ]
+    }
+  ],
+  "version": 2
+}

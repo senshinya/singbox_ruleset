@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "duolingo.cn",
+        "duolingo.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bnetproduct-a.akamaihd.net",
+        "blizzard.nefficient.co.kr",
+        "cdn.blz-contentstack.com",
+        "blzddist1-a.akamaihd.net",
+        "blzddistkr1-a.akamaihd.net"
+      ],
+      "domain_suffix": [
+        "battlenet.com.cn",
+        "battle.net",
+        "blizzard.com"
+      ]
+    }
+  ],
+  "version": 2
+}

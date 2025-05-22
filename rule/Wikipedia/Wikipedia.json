@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "wikivoyage.org",
+        "wikileaks.org",
+        "wikimedia.org",
+        "wikibooks.org",
+        "wiktionary.org",
+        "wikiquote.org",
+        "wikisource.org",
+        "wikiversity.org",
+        "mediawiki.org",
+        "wikinews.org",
+        "wikidata.org",
+        "wikipedia.org"
+      ]
+    }
+  ],
+  "version": 2
+}

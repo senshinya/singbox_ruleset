@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "vod-thumb-ww-live.akamaized.net",
+        "vod-hls-uk-live.akamaized.net",
+        "vod-thumb-uk-live.akamaized.net",
+        "aod-hls-uk-live.akamaized.net",
+        "aod-dash-uk-live.akamaized.net",
+        "as-dash-uk-live.akamaized.net",
+        "vod-sub-uk-live.akamaized.net",
+        "vod-dash-uk-live.akamaized.net",
+        "vod-dash-ww-live.akamaized.net",
+        "vs-cmaf-push-uk-live.akamaized.net",
+        "as-hls-uk-live.akamaized.net"
+      ],
+      "domain_keyword": [
+        "uk-live",
+        "bbcfmt"
+      ],
+      "domain_suffix": [
+        "bbcmedia.co.uk",
+        "bbc.co.uk",
+        "bbc.com",
+        "bbcchinese.com",
+        "bbcverticals.com",
+        "bbcfmt.s.llnwi.net",
+        "bbc.net.uk",
+        "bbci.co.uk",
+        "bbc",
+        "bbc.co",
+        "bidi.net.uk",
+        "bbci.co",
+        "bbcfmt.hs.llnwd.net",
+        "bbcpersian.com",
+        "bbc.in"
+      ]
+    }
+  ],
+  "version": 2
+}
