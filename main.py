@@ -64,15 +64,15 @@ def init():
     # 汇总 asn 信息
     asn_v4_file = os.path.join(asn_folder_path, 'GeoLite2-ASN-Blocks-IPv4.csv')
     asn_v6_file = os.path.join(asn_folder_path, 'GeoLite2-ASN-Blocks-IPv6.csv')
-    with open(asn_v4_file, mode='r', encoding='utf-8'):
-        csv_reader = csv.reader(asn_v4_file, delimiter=',')
+    with open(asn_v4_file, mode='r', encoding='utf-8') as f:
+        csv_reader = csv.reader(f, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
             if not row or len(row) < 2:
                 continue
             asn_v4[int(row[1])].append(row[0])
-    with open(asn_v6_file, mode='r', encoding='utf-8'):
-        csv_reader = csv.reader(asn_v6_file, delimiter=',')
+    with open(asn_v6_file, mode='r', encoding='utf-8') as f:
+        csv_reader = csv.reader(f, delimiter=',')
         next(csv_reader)
         for row in csv_reader:
             if not row or len(row) < 2:
