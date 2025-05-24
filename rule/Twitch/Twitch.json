@@ -1,0 +1,39 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "ttvnw"
+      ],
+      "domain_suffix": [
+        "twitchsvc.net",
+        "live-video.net",
+        "ext-twitch.tv",
+        "ttvnw.net",
+        "jtvnw.net",
+        "twitch-ext.rootonline.de",
+        "twitchcdn.net",
+        "twitch.tv"
+      ],
+      "ip_cidr": [
+        "2402:2a80::/32",
+        "52.223.224.0/19",
+        "185.42.204.0/22",
+        "103.53.48.0/23",
+        "192.108.239.0/24",
+        "45.113.128.0/22",
+        "199.9.248.0/21",
+        "52.223.192.0/20",
+        "23.160.0.0/24",
+        "99.181.64.0/18",
+        "52.223.208.0/21",
+        "192.16.64.0/21"
+      ]
+    },
+    {
+      "process_name": [
+        "tv.twitch.android.app"
+      ]
+    }
+  ],
+  "version": 2
+}
