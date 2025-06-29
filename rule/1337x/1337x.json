@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "1337xto.to",
+        "x1337x.eu",
+        "1337xx.to",
+        "x1337x.se",
+        "1337x.st",
+        "1337x.is",
+        "x1337x.ws",
+        "1337x.tw",
+        "1337x.gd",
+        "1337x.to"
+      ]
+    }
+  ],
+  "version": 2
+}

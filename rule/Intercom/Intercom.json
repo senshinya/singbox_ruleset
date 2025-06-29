@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "intercomassets.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "intercom.com"
+      ]
+    }
+  ],
+  "version": 2
+}

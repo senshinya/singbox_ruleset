@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "dplus-northamerica.media-edge.prod-vod.h264.io",
+        "dplus-northamerica-cloudfront-gcs.prod-vod.h264.io",
+        "discovery-us.conax.cloud"
+      ],
+      "domain_keyword": [
+        "discovery.uplynk.com"
+      ],
+      "domain_suffix": [
+        "mobile-collector.newrelic.com",
+        "getblueshift.com",
+        "dnitv.com",
+        "discovery.com",
+        "uplynk.com",
+        "discoveryplus.in",
+        "litix.io",
+        "fwmrm.net",
+        "discoveryplus.co.uk",
+        "disco-api.com",
+        "discoveryplus.com"
+      ]
+    }
+  ],
+  "version": 2
+}
