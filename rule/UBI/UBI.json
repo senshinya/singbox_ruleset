@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ubisoft-orbit-savegames.s3.amazonaws.com",
+        "ubi.com",
+        "uplay.com",
+        "ubisoft-uplay-savegames.s3.amazonaws.com",
+        "ubisoft.com"
+      ]
+    }
+  ],
+  "version": 2
+}
