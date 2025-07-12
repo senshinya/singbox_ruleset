@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "bahamut.akamaized.net"
+      ],
+      "domain_suffix": [
+        "viblast.com",
+        "gvt1.com",
+        "hinet.net",
+        "digicert.com",
+        "gamer.com.tw",
+        "bahamut.com.tw"
+      ]
+    }
+  ],
+  "version": 2
+}

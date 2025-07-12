@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dianping.com",
+        "meituan.net",
+        "mtyun.com",
+        "meituan.com",
+        "maoyan.com",
+        "neixin.cn",
+        "sankuai.com"
+      ]
+    }
+  ],
+  "version": 2
+}

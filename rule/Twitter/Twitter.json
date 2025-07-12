@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "twitter"
+      ],
+      "domain_suffix": [
+        "ads-twitter.com",
+        "t.co",
+        "vine.co",
+        "twtrdns.net",
+        "cms-twdigitalassets.com",
+        "twitterflightschool.com",
+        "twimg.co",
+        "twitterstat.us",
+        "twitterinc.com",
+        "twttr.com",
+        "tweetdeck.com",
+        "periscope.tv",
+        "twimg.org",
+        "twittercommunity.com",
+        "twitter.com",
+        "x.com",
+        "twitter.jp",
+        "twvid.com",
+        "tellapart.com",
+        "twttr.net",
+        "twimg.com",
+        "twitteroauth.com",
+        "twitpic.com",
+        "twitter.biz",
+        "pscp.tv"
+      ],
+      "ip_cidr": [
+        "209.237.192.0/19",
+        "199.96.56.0/21",
+        "202.160.128.0/22",
+        "69.195.160.0/19",
+        "199.59.148.0/22",
+        "192.133.76.0/22"
+      ]
+    }
+  ],
+  "version": 2
+}
