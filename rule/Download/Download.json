@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "thunder",
+        "aria2",
+        "xunlei",
+        "xlliveud",
+        "yunpan"
+      ],
+      "domain_suffix": [
+        "qbittorrent.org"
+      ]
+    },
+    {
+      "process_name": [
+        "fdm",
+        "Thunder.exe",
+        "DownloadService.exe",
+        "BitComet.exe",
+        "Folx",
+        "uTorrent.exe",
+        "uTorrent",
+        "NetTransport.exe",
+        "Folx.exe",
+        "WebTorrent.exe",
+        "qbittorrent.exe",
+        "Weiyun",
+        "WebTorrentHelper",
+        "fdm.exe",
+        "BitComet_x64.exe",
+        "WebTorrentHelper.exe",
+        "Transmission.exe",
+        "NetTransport",
+        "Transmission",
+        "aria2c.exe",
+        "BitComet",
+        "Weiyun.exe",
+        "WebTorrent",
+        "Thunder",
+        "baidunetdisk.exe",
+        "DownloadService",
+        "aria2c",
+        "qbittorrent"
+      ]
+    }
+  ],
+  "version": 2
+}

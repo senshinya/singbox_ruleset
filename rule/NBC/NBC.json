@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "nbcstreaming.sc.omtrdc.net"
+      ],
+      "domain_suffix": [
+        "eonline.com",
+        "nbcsports.com",
+        "universalkids.com",
+        "cnbcfm.com",
+        "nbcudigitaladops.com",
+        "nbcsports.h-cdn.com",
+        "s-nbcnews.com",
+        "cnbc.com",
+        "nbc-sports.go-vip.net",
+        "nbc.com",
+        "nbc.co",
+        "nbcnews.com",
+        "oxygen.com",
+        "eluniverso.com",
+        "telemundo.com",
+        "msnbc.com",
+        "syfy.com",
+        "nbcuni.com",
+        "peacocktv.com",
+        "usanetwork.com",
+        "bravotv.com"
+      ]
+    }
+  ],
+  "version": 2
+}
