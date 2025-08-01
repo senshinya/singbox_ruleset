@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "upos-hz-mirrorakam.akamaized.net",
+        "akmcdnoversea-tw.inter.ptqy.gitv.tv",
+        "intl-subscription.iqiyi.com",
+        "app.biliapi.net",
+        "akmcdnoversea-tw.inter.iqiyi.com",
+        "cache.video.iqiyi.com",
+        "m.bilibili.com",
+        "mobileso.bz.mgtv.com",
+        "grpc.biliapi.net",
+        "api.bilibili.com",
+        "intl.iqiyi.com",
+        "api.biliapi.com",
+        "app.bilibili.com",
+        "intl-rcd.iqiyi.com",
+        "chuangcachecdnoversea-tw.inter.iqiyi.com",
+        "chuangcachecdnoversea-tw.inter.ptqy.gitv.tv",
+        "app.biliapi.com",
+        "api.biliapi.net",
+        "www.bilibili.com"
+      ],
+      "domain_keyword": [
+        "cn-hk-eq-bcache-"
+      ],
+      "domain_suffix": [
+        "wetv.vip",
+        "api.mgtv.com",
+        "iq.com",
+        "wetvinfo.com"
+      ],
+      "ip_cidr": [
+        "23.40.242.10/32",
+        "103.44.56.0/22",
+        "116.211.202.206/32",
+        "23.40.241.251/32",
+        "118.26.32.0/23",
+        "116.211.202.216/32",
+        "118.26.120.0/24"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ],
+      "domain_suffix": [
+        "hbogoasia.com",
+        "nowe.hk",
+        "hbogoasia.id",
+        "hbogo.eu",
+        "hboasialive.akamaized.net",
+        "hbogoasia.sg",
+        "now-tv.com",
+        "hboasia3-i.akamaihd.net",
+        "hboasia.com",
+        "hboasia4-i.akamaihd.net",
+        "now.com.hk",
+        "hboasia5-i.akamaihd.net",
+        "hbogoprod-vod.akamaized.net",
+        "hboasia2-i.akamaihd.net",
+        "hboasia1-i.akamaihd.net",
+        "hbogoasia.hk",
+        "nowe.com",
+        "now-ashare.com",
+        "hbogoasia.ph",
+        "hbogo.co.th",
+        "hbogo.com",
+        "hbomaxcdn.com",
+        "hbogoasia.tw"
+      ]
+    }
+  ],
+  "version": 2
+}

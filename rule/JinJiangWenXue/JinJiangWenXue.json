@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jjwxc.com",
+        "chaba123.com",
+        "jjwxc.org",
+        "jjycw.net",
+        "jjwxc.net",
+        "jjwxc.cn",
+        "robook.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.jjwxc.reader"
+      ]
+    }
+  ],
+  "version": 2
+}

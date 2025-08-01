@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "packer.io",
+        "terraform.io",
+        "vaultproject.io",
+        "vagrantup.com",
+        "vagrantcloud.com",
+        "consul.io",
+        "nomadproject.io",
+        "hashicorp.com"
+      ]
+    }
+  ],
+  "version": 2
+}

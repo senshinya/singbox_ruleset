@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cptn.tv",
+        "smg.cn",
+        "smg.sh.cn",
+        "sava.sh.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
