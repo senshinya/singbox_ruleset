@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "disqusservice.com",
+        "disquscdn.com",
+        "disqus.com"
+      ]
+    }
+  ],
+  "version": 2
+}
