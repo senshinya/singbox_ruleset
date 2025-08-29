@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "meitudata.com",
+        "meipai.com",
+        "meitustat.com",
+        "meitu.com"
+      ]
+    }
+  ],
+  "version": 2
+}

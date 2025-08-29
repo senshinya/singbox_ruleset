@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ecapi-pchome.cdn.hinet.net",
+        "pcloud.tw",
+        "pchome.com.tw",
+        "pchomepay.com.tw",
+        "ecimg.tw"
+      ]
+    }
+  ],
+  "version": 2
+}

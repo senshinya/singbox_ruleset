@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "itvpnp.stage.ott.irdeto.com",
+        "itvpnp.live.ott.irdeto.com"
+      ],
+      "domain_suffix": [
+        "bb-static.com",
+        "britbox.com",
+        "massive-itv.com",
+        "britbox.co.uk",
+        "itv.com",
+        "bbc.co.uk"
+      ]
+    }
+  ],
+  "version": 2
+}
