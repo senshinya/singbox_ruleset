@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "weizhiyundong.list"
+      ],
+      "domain_suffix": [
+        "weiyunyingxiang.com",
+        "dicom365.com",
+        "dycom365.com",
+        "wedcm.com"
+      ]
+    }
+  ],
+  "version": 2
+}

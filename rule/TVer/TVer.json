@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "edge.api.brightcove.com",
+        "tver.jp",
+        "gorin.jp",
+        "dogatch.jp",
+        "tver.co.jp",
+        "screens-lab.jp"
+      ]
+    }
+  ],
+  "version": 2
+}
