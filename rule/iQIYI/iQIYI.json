@@ -1,0 +1,74 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "qiyi"
+      ],
+      "domain_suffix": [
+        "aiqiyicloud.net",
+        "71edge.net",
+        "qiyipic.com",
+        "71edge.com",
+        "aianno.cn",
+        "ibkstore.com",
+        "gitv.cn",
+        "ppstream.com.cn",
+        "qiyi.com",
+        "71.am.com",
+        "jiangbing.cn",
+        "aianno.com",
+        "iq.com",
+        "baiying.com",
+        "qy.com",
+        "ppsurl.com",
+        "ppstream.net.cn",
+        "iqiyiedge.com",
+        "ppstream.com",
+        "suike.cn",
+        "ppstream.cn",
+        "iqiyipic.com",
+        "ppsimg.com",
+        "qy.net",
+        "71.am",
+        "aiqiyicloud-mgmt.com",
+        "iqiyi.demo.uwp",
+        "gitv.tv",
+        "iqiyiedge.net",
+        "aiqiyicloud.com",
+        "pps.tv",
+        "ppstream.net",
+        "qiyi.cn",
+        "iqiyi.com"
+      ],
+      "ip_cidr": [
+        "203.211.4.193/32",
+        "101.224.0.0/13",
+        "118.26.32.0/23",
+        "203.74.95.153/32",
+        "104.109.129.153/32",
+        "210.201.32.11/32",
+        "210.201.32.8/32",
+        "103.5.34.153/32",
+        "23.40.241.251/32",
+        "118.26.120.0/24",
+        "110.238.107.47/32",
+        "23.40.242.10/32",
+        "210.71.227.202/32",
+        "203.211.4.169/32",
+        "119.176.0.0/12",
+        "203.74.95.131/32",
+        "23.211.15.99/32",
+        "103.44.56.0/22",
+        "203.74.95.139/32",
+        "210.71.227.200/32",
+        "23.53.32.88/32"
+      ]
+    },
+    {
+      "process_name": [
+        "com.qiyi.video"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,43 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "gss0.bdstatic.com",
+        "nsclick.baidu.com",
+        "cpro.baidustatic.com",
+        "mediago-static.cdn.bcebos.com",
+        "passport.baidu.com",
+        "ecma.bdimg.com",
+        "tb.himg.baidu.com",
+        "tiebac.baidu.com",
+        "gomediago.baidu.com",
+        "tieba-ares.cdn.bcebos.com",
+        "dlswbr.baidu.com",
+        "tb4.bdstatic.com",
+        "tb6.bdstatic.com",
+        "fex.bdstatic.com",
+        "miaowu.baidu.com",
+        "hmma.baidu.com",
+        "tb3.bdstatic.com",
+        "ns-strategy.cdn.bcebos.com",
+        "cdn.hiphotos.baidu.com",
+        "tb5.bdstatic.com",
+        "mobads-log.baidu.com",
+        "als.baidu.com",
+        "tb1.bdstatic.com",
+        "gsp0.baidu.com",
+        "tb2.bdstatic.com",
+        "tbmsg.baidu.com",
+        "feed-image.baidu.com",
+        "tiebapic.baidu.com",
+        "mobads.baidu.com",
+        "sofire.bdstatic.com",
+        "crab.baidu.com"
+      ],
+      "domain_suffix": [
+        "tieba.baidu.com"
+      ]
+    }
+  ],
+  "version": 2
+}
