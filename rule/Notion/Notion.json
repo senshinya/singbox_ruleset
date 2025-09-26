@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "http-inputs-notion.splunkcloud.com"
+      ],
+      "domain_suffix": [
+        "notion-static.com",
+        "notion.so",
+        "notion.new",
+        "notion.site",
+        "notion.com"
+      ]
+    }
+  ],
+  "version": 2
+}

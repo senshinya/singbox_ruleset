@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tdpress.com",
+        "china-railway.com.cn",
+        "china-ric.com",
+        "peoplerail.com",
+        "nntlj.com",
+        "rails.cn",
+        "95572.com",
+        "creip.cn",
+        "cre.cn",
+        "12306.cn",
+        "crscl.com.cn",
+        "gzrailway.com.cn",
+        "crecc.com.cn",
+        "crct.com",
+        "95306.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
