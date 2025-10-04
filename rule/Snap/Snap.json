@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "snapads.com",
+        "snap.com",
+        "snapchat.com",
+        "snap-dev.net",
+        "sc-cdn.net",
+        "snapkit.co"
+      ]
+    }
+  ],
+  "version": 2
+}

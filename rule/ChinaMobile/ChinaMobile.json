@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "10086kuaixiu.com",
+        "lovev.cn",
+        "andfx.cn",
+        "migucloud.com",
+        "warmchina121.com",
+        "cmdcxls.com",
+        "chinamobileltd.com",
+        "migucc.cn",
+        "miguvideo.com",
+        "cmvideo.cn",
+        "zdsdp.com",
+        "mmarket6.com",
+        "cmpassport.com",
+        "migucdn.cn",
+        "12530.com",
+        "migu.cn",
+        "mmarket.com",
+        "migugk.com",
+        "migutv.com",
+        "139.com",
+        "10086.cn",
+        "chinamobile.com",
+        "cmdcl.cn",
+        "fetion-portal.com",
+        "andfx.net",
+        "miguvideo.com.cn",
+        "fxltsbl.com",
+        "lovev.com",
+        "chinamobiledevice.com",
+        "cxzx10086.cn",
+        "migufm.com",
+        "cmccb2b.com",
+        "monternet.com",
+        "fetionpic.com",
+        "cmicrwx.cn"
+      ],
+      "ip_cidr": [
+        "117.161.2.5/32"
+      ]
+    }
+  ],
+  "version": 2
+}

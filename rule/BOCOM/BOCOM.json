@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bankcomm.com.au",
+        "95559.sh.cn",
+        "95559.com.cn",
+        "bankcomm.com.tw",
+        "bankcomm.com",
+        "bankcomm.com.mo"
+      ]
+    }
+  ],
+  "version": 2
+}
