@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "comodo.com",
+        "comodoca.com",
+        "comodoca4.com",
+        "comodoca2.com",
+        "comodoca3.com"
+      ]
+    }
+  ],
+  "version": 2
+}

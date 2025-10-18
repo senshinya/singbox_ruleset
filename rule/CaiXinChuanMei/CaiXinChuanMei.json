@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "caixinmedia.com.cn",
+        "caixinmedia.cn",
+        "caing.cn",
+        "weinews.com.cn",
+        "lifetmt.net",
+        "wusuobuneng.com",
+        "lifetmt.org",
+        "lifetmt.cn",
+        "lifetmt.com",
+        "weinews.cn",
+        "icaing.cn",
+        "wusuobuneng.org",
+        "caing.com",
+        "caixinmedia.com",
+        "wusuobuneng.cn",
+        "healthpoint.cn",
+        "whyenjoy.com",
+        "caixin.com",
+        "lifetmt.com.cn",
+        "wusuobuneng.com.cn",
+        "jianhangcaifu.com",
+        "healthpoint.com.cn",
+        "whyenjoy.com.cn",
+        "caixinonline.com"
+      ]
+    }
+  ],
+  "version": 2
+}
