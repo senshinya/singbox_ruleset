@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "llnw.com",
+        "limelight.com",
+        "llnw-trials.com",
+        "llnwi.net",
+        "lldns.net",
+        "delvenetworks.com",
+        "llnwd.net",
+        "llnw.net"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "clubhouse.pubnub.com",
+        "clubhouseprod.s3.amazonaws.com"
+      ],
+      "domain_suffix": [
+        "clubhouse.com",
+        "joinclubhouse.com",
+        "clubhouseapi.com"
+      ]
+    }
+  ],
+  "version": 2
+}

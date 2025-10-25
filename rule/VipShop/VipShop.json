@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vip.com",
+        "appvipshop.com",
+        "appsimg.com",
+        "vipstatic.com"
+      ]
+    }
+  ],
+  "version": 2
+}

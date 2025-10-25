@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "lastfm-img2.akamaized.net",
+        "last.us11.list-manage.com"
+      ],
+      "domain_suffix": [
+        "lastfm.ru",
+        "bvuno.tk",
+        "jdw1v.tk",
+        "cqyos.tk",
+        "rfnva.tk",
+        "itnnl.tk",
+        "lastfm.ph",
+        "mwrel.tk",
+        "oilofhaemony.com",
+        "lastfm.de",
+        "halkz.tk",
+        "lastfmpresents.com",
+        "kwcnn.tk",
+        "bbfc1.tk",
+        "rmohl.tk",
+        "fuckyeahtfx.com",
+        "pqqx2.tk",
+        "tnjqk.tk",
+        "last.fm",
+        "bc9oa.tk",
+        "kn5ak.tk",
+        "lastfm.pl",
+        "lastfm.freetls.fastly.net",
+        "audioscrobbler.com",
+        "ouchmonkey.com",
+        "lastfm.es",
+        "wznka.tk",
+        "lastfm.eu",
+        "lastfm.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

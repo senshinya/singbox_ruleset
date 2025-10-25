@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com",
+        "clientstream.launchdarkly.com",
+        "sky.com.ssl.d1.sc.omtrdc.net"
+      ],
+      "domain_keyword": [
+        "skyliveuk",
+        "bskyb",
+        "skygo"
+      ],
+      "domain_suffix": [
+        "sky.com",
+        "eu-1.xcal.tv",
+        "skycdp.com",
+        "skysports.com",
+        "epgsky.com",
+        "skygo.co.nz",
+        "xmidt-eu.comcast.net",
+        "skyanywhere.com",
+        "2cnt.net"
+      ]
+    }
+  ],
+  "version": 2
+}
