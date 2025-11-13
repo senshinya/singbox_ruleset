@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pinterest.ph",
+        "pinterest.dk",
+        "pinterest.fr",
+        "pinterest.jp",
+        "pinterest.com.au",
+        "pinterest.pt",
+        "pinterest.com",
+        "pinterest.cl",
+        "pinterest.com.mx",
+        "pinterest.co.uk",
+        "pinterest.ch",
+        "pinimg.com",
+        "pinterest.nl",
+        "pinterest.co.kr",
+        "pinterest.ru",
+        "pinterest.es",
+        "pinterest.it",
+        "pinterest.ca",
+        "pinterest.se",
+        "pinterest.de",
+        "pinterest.ie",
+        "pinterest.at",
+        "pinterest.nz"
+      ]
+    }
+  ],
+  "version": 2
+}

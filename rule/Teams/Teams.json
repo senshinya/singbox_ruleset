@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "teams.events.data.microsoft.com"
+      ],
+      "domain_suffix": [
+        "teams.cdn.live.net",
+        "teams.live.com",
+        "teams.microsoft.com"
+      ]
+    }
+  ],
+  "version": 2
+}

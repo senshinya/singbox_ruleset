@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gitee.com",
+        "gitee.io"
+      ]
+    }
+  ],
+  "version": 2
+}

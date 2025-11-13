@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "huffingtonpost.com.mx",
+        "huffpostarabi.com",
+        "huffingtonpost.co.za",
+        "huffingtonpost.kr",
+        "huffpost.com",
+        "huffingtonpost.co.uk",
+        "huffingtonpost.fr",
+        "huffingtonpost.it",
+        "huffingtonpost.gr",
+        "huffingtonpost.com.au",
+        "huffingtonpost.ca",
+        "huffpostbrasil.com",
+        "huffingtonpost.de",
+        "huffpostmaghreb.com",
+        "huffingtonpost.com",
+        "huffingtonpost.jp",
+        "huffingtonpost.in",
+        "huffingtonpost.es"
+      ]
+    }
+  ],
+  "version": 2
+}

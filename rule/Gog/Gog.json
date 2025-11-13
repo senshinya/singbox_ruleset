@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "gog.salesmanago.com"
+      ],
+      "domain_suffix": [
+        "gog.qtlglb.com",
+        "gog-statics.com",
+        "gog.com"
+      ]
+    }
+  ],
+  "version": 2
+}

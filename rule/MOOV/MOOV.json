@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mtg.now.com",
+        "moov.hk"
+      ]
+    }
+  ],
+  "version": 2
+}

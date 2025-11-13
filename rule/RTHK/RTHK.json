@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "rthkradio2-live.akamaized.net",
+        "rthkradio4-live.akamaized.net",
+        "rthkradiopth-live.akamaized.net",
+        "rthkradio1-live.akamaized.net",
+        "rthklive2-lh.akamaihd.net",
+        "rthkradiocnrhk-live.akamaized.net",
+        "rthktv32-live.akamaized.net",
+        "rthkradiocmgrgb-live.akamaized.net",
+        "rthkradio3-live.akamaized.net",
+        "rthkradio5-live.akamaized.net",
+        "rthktv31-live.akamaized.net"
+      ],
+      "domain_suffix": [
+        "rthk.hk",
+        "rthk.org.hk"
+      ]
+    }
+  ],
+  "version": 2
+}
