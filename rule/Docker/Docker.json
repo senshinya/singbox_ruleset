@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "d36jcksde1wxzq.cloudfront.net",
+        "d2wy8f7a9ursnm.cloudfront.net",
+        "d1q6f0aelx0por.cloudfront.net"
+      ],
+      "domain_suffix": [
+        "docker.io",
+        "compose-spec.io",
+        "docker.com",
+        "dockerhub.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "khm0.google.com",
+        "khm3.googleapis.com",
+        "khm.googleapis.com",
+        "earth.google.com",
+        "khm0.googleapis.com",
+        "khm1.googleapis.com",
+        "khm1.google.com",
+        "mw1.google.com",
+        "khm.google.com",
+        "khm2.google.com",
+        "earth-pa.clients6.google.com",
+        "khm3.google.com",
+        "khmdb.google.com",
+        "khm2.googleapis.com",
+        "kh.google.com",
+        "khmdb.googleapis.com"
+      ]
+    }
+  ],
+  "version": 2
+}
