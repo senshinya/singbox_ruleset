@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "unrealengine.com",
+        "playparagon.com",
+        "epicgames.com",
+        "fortnite.com",
+        "spyjinx.com",
+        "battlebreakers.com",
+        "shadowcomplex.com",
+        "epicgames.dev",
+        "roborecall.com",
+        "paragon.com",
+        "eac-cdn.com",
+        "helpshift.com",
+        "easyanticheat.net",
+        "unrealtournament.com",
+        "easy.ac"
+      ]
+    }
+  ],
+  "version": 2
+}

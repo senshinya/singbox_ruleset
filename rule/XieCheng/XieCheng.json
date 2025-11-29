@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ctrip.co.id",
+        "ctrip.co.kr",
+        "hhtravel.com",
+        "ctripbiz.com",
+        "easytrip.com",
+        "ctrip.sg",
+        "hhtravel.com.tw",
+        "ctrip.cn",
+        "suanya.cn",
+        "suanya.com",
+        "tripcdn.com",
+        "tieyou.com",
+        "ctrip.com.hk",
+        "izuchebao.com",
+        "skysea.com",
+        "shuntu.cn",
+        "trip.com",
+        "toursbms.com",
+        "doticloud.com",
+        "ctrip.my",
+        "toptown.cn",
+        "colinker.com",
+        "vipdlt.com",
+        "ctripteam.com",
+        "lvtds.com",
+        "ctripbuy.hk",
+        "ctrip.com",
+        "c-ctrip.com",
+        "ctrip.co.th"
+      ]
+    }
+  ],
+  "version": 2
+}
