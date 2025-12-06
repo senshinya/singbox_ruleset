@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "mask-api.icloud.com",
+        "mask-api.fe.apple-dns.net",
+        "mask-t.apple-dns.net",
+        "mask.apple-dns.net"
+      ],
+      "domain_suffix": [
+        "mask.icloud.com",
+        "mask-h2.icloud.com"
+      ]
+    }
+  ],
+  "version": 2
+}
