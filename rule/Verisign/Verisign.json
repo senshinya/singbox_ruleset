@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "verisign.fr",
+        "verisign.de",
+        "verisign.com.es",
+        "verisign.tw",
+        "verisign.com.br",
+        "verisign.com.tw",
+        "verisign.mobi",
+        "verisign.biz",
+        "verisign.hk",
+        "verisign.name",
+        "verisign.es",
+        "verisign.com.hk",
+        "verisign.co.uk",
+        "verisign.dk",
+        "verisign.vn",
+        "verisign.org",
+        "verisign.se",
+        "verisign.com",
+        "verisign.asia",
+        "verisign.com.vn",
+        "verisign.com.sg",
+        "verisign.com.cn",
+        "verisign.co.in",
+        "verisign.net",
+        "verisign.us",
+        "verisign.com.au",
+        "verisign.pro",
+        "verisign.in",
+        "verisigninc.com",
+        "verisign.info",
+        "verisign.sg",
+        "verisign.ch",
+        "verisign.jobs"
+      ]
+    }
+  ],
+  "version": 2
+}
