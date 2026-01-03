@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "alcatel-home.com",
+        "hmeng.net.cn",
+        "tcl.com.cn",
+        "alcatelmobile.com",
+        "blackberry.com",
+        "hmeng.cn",
+        "tcl.com"
+      ]
+    }
+  ],
+  "version": 2
+}

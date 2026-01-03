@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "opera-browser.com",
+        "operacdn.com",
+        "opera-api2.com",
+        "coastbyopera.com",
+        "operagx.com",
+        "1npq4.tk",
+        "opera.software",
+        "otvs.tv",
+        "xn--cer18jcpe41t.com",
+        "operasoftware.com",
+        "opera-api.com",
+        "gamingbrowsers.com",
+        "opera-mini.net",
+        "opera.com"
+      ],
+      "ip_cidr": [
+        "195.189.142.0/23",
+        "2001:4c28::/32",
+        "77.111.244.0/22",
+        "82.145.208.0/20",
+        "185.26.180.0/22",
+        "141.0.8.0/21",
+        "37.228.104.0/21",
+        "91.203.97.0/24"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "liveperson.net",
+        "liveperson.com",
+        "lpsnmedia.net"
+      ]
+    }
+  ],
+  "version": 2
+}
