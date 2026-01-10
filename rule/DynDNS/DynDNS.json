@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "from-pr.com",
+        "blogdns.org",
+        "dyndns-pics.com",
+        "from-sd.com",
+        "is-a-hunter.com",
+        "dyn.com",
+        "dyndns.org",
+        "dyndns-ip.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "foxsports03-i.akamaihd.net",
+        "foxsports01-i.akamaihd.net",
+        "cdn-fox-networks-group-green.akamaized.net",
+        "foxsports02-i.akamaihd.net",
+        "d3cv4a9a9wh0bt.cloudfront.net",
+        "staticasiafox.akamaized.net"
+      ],
+      "domain_suffix": [
+        "foxplus.com"
+      ]
+    }
+  ],
+  "version": 2
+}

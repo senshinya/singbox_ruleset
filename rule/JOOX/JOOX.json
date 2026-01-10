@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "jooxweb-api"
+      ],
+      "domain_suffix": [
+        "joox.com",
+        "i-joox.com",
+        "sanook.com"
+      ],
+      "ip_cidr": [
+        "203.205.234.0/23",
+        "119.28.182.0/23"
+      ]
+    },
+    {
+      "process_name": [
+        "com.tencent.ibg.joox"
+      ]
+    }
+  ],
+  "version": 2
+}
