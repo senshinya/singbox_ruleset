@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kakaocorp.com",
+        "kakaocdn.net",
+        "potplayer.tv",
+        "daum.net",
+        "daumcdn.net",
+        "daumkakao.io",
+        "kakao.com",
+        "daumpotplayer.com",
+        "kakao.co.kr"
+      ],
+      "ip_cidr": [
+        "27.0.236.0/22",
+        "103.27.148.0/22",
+        "103.246.56.0/22",
+        "1.201.0.0/24",
+        "110.76.140.0/22",
+        "113.61.104.0/22"
+      ]
+    }
+  ],
+  "version": 2
+}
