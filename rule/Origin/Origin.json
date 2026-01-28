@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cloudsync-prod.s3.amazonaws.com",
+        "eaasserts-a.akamaihd.net",
+        "rtm.tnt-ea.com",
+        "originasserts.akamaized.net",
+        "origin-a.akamaihd.net"
+      ],
+      "domain_suffix": [
+        "ea.com",
+        "origin.com"
+      ]
+    }
+  ],
+  "version": 2
+}
