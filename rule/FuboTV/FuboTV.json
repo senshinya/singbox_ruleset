@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fubotv.com",
+        "fubo.tv"
+      ]
+    }
+  ],
+  "version": 2
+}
