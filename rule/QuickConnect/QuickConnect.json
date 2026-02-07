@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "account.synology.com",
+        "sns.synology.com",
+        "global.quickconnect.cn"
+      ],
+      "domain_suffix": [
+        "quickconnect.com",
+        "download.synology.com",
+        "quickconnect.to"
+      ]
+    }
+  ],
+  "version": 2
+}

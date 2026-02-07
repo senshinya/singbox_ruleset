@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "walkingpad.com",
+        "kingsmith.cn",
+        "kingsmith.com.cn",
+        "walkingpad.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
