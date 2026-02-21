@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bronto.com",
+        "sun.com",
+        "oracle",
+        "eloquaeditors.com",
+        "addthis.com",
+        "en25.com",
+        "addthisedge.com",
+        "ateam-oracle.com",
+        "java",
+        "a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com",
+        "java.net",
+        "oracle.com",
+        "oracleinfinity.io",
+        "oraclefoundation.org",
+        "oracleimg.com",
+        "covid19rx.org",
+        "oraclecloud.com",
+        "java.com",
+        "bluekai.com",
+        "addthiscdn.com",
+        "addthis.com.edgekey.net",
+        "covid19-rx.org",
+        "responsys.net",
+        "eloqua.com",
+        "eloquapreview.com"
+      ]
+    }
+  ],
+  "version": 2
+}

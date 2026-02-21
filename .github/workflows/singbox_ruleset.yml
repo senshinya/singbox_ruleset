@@ -1,0 +1,54 @@
+name: "Build RuleSet"
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-rule-set:
+    name: "Update sing-box rule-set"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
+      - name: "Setup sing-box"
+        env:
+          SING_BOX_DEB_URL: "https://github.com/SagerNet/sing-box/releases/download/v1.10.0-beta.5/sing-box_1.10.0-beta.5_linux_amd64.deb"
+        run: |
+            set -Eeuo pipefail
+            wget -O sing-box.deb $SING_BOX_DEB_URL
+            sudo dpkg -i sing-box.deb
+            rm sing-box.deb
+      - name: "Setup python venv"
+        run: |
+            set -Eeuo pipefail
+            python3 -m venv venv
+            source venv/bin/activate
+            pip3 install -r requirements.txt
+      - name: "Update rule-set"
+        env:
+          MAXMIND_KEY: ${{ secrets.MAXMIND_KEY }}
+        run: |
+            set -Eeuo pipefail
+            source venv/bin/activate
+            python3 main.py
+      - name: "Compile rule-set"
+        run: |
+            bash compile.sh
+      - name: "Commit and push"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+            set -Eeuo pipefail
+            rm -rf .git
+            git config --global init.defaultBranch main
+            git init
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add .
+            git commit --allow-empty-message --no-edit
+            git remote add origin https://github-action:$GITHUB_TOKEN@github.com/senshinya/singbox_ruleset.git
+            git push origin main --force

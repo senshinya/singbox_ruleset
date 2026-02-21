@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sinopecsales.com",
+        "sinopecnews.com.cn",
+        "sinopec-usa.com",
+        "sinopecgroup.com",
+        "sinopec.com"
+      ]
+    }
+  ],
+  "version": 2
+}
