@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "d3pgb93pk7bvxj.cloudfront.net",
+        "d3vm9lcxb6xcm4.cloudfront.net",
+        "d17lx9ucc6k9fc.cloudfront.net"
+      ],
+      "domain_suffix": [
+        "line-scdn.net",
+        "linetv.tw",
+        "chocotv.com.tw",
+        "line-cdn.net",
+        "d3c7rimkq79yfu.cloudfront.net"
+      ]
+    },
+    {
+      "process_name": [
+        "com.linecorp.linetv"
+      ]
+    }
+  ],
+  "version": 2
+}

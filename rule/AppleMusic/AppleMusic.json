@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "audio-ssl.itunes.apple.com",
+        "mvod.itunes.apple.com",
+        "aod-ssl.itunes.apple.com",
+        "audio.itunes.apple.com",
+        "aod.itunes.apple.com",
+        "streamingaudio.itunes.apple.com"
+      ],
+      "domain_suffix": [
+        "blobstore.apple.com",
+        "music.apple.com",
+        "applemusic.com"
+      ]
+    },
+    {
+      "process_name": [
+        "Music"
+      ]
+    }
+  ],
+  "version": 2
+}

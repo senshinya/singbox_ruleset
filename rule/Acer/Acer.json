@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "acer.com.cn",
+        "acer-group.com",
+        "founderpc.cn",
+        "acer.com",
+        "founderpc.com"
+      ]
+    }
+  ],
+  "version": 2
+}

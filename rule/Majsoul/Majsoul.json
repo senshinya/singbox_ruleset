@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gateway-cdn.maj-soul.com",
+        "lb-v2.maj-soul.com",
+        "lb-hw.maj-soul.com",
+        "gateway-v2.maj-soul.com",
+        "lb-cdn.maj-soul.com",
+        "lb-sy.maj-soul.com",
+        "majsoul-hk-client.cn-hongkong.log.aliyuncs.com",
+        "gateway-hw.maj-soul.com",
+        "gateway-sy.catmjstudio.com",
+        "game.maj-soul.com",
+        "gateway-sy.maj-soul.com"
+      ]
+    }
+  ],
+  "version": 2
+}
