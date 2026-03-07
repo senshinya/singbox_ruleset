@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "xunlei.cn",
+        "155.com",
+        "xbase.cloud",
+        "newvr.com",
+        "kuaipan.cn",
+        "falconalliance.cn",
+        "xlisp.net",
+        "geilijiasu.net",
+        "geilijiasu.com",
+        "sandai.net",
+        "8uri.cn",
+        "88cdn.com",
+        "neoimaging.cn",
+        "xbase.xyz",
+        "kanimg.com",
+        "xlpan.com",
+        "xlyouxi.net",
+        "sjzhushou.com",
+        "p2cdn.com",
+        "xunlei.net",
+        "xcloudbase.com",
+        "xunlei.com",
+        "kankan.com",
+        "thunderurl.com",
+        "2sonar.com",
+        "szxlxzb.com",
+        "thundercdn.com",
+        "n0808.com",
+        "gigaget.com",
+        "fontong.com",
+        "00cdn.com"
+      ]
+    },
+    {
+      "process_name": [
+        "Thunder.exe",
+        "Thunder"
+      ]
+    }
+  ],
+  "version": 2
+}

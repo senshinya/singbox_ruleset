@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jwpltx.com",
+        "jwpsrv.com",
+        "jwplatform.com",
+        "jwplayer.com",
+        "jwpcdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}

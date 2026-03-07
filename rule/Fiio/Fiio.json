@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fiio.net",
+        "fiio.cn",
+        "fiio.com",
+        "fiio.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
