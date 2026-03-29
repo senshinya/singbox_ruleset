@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "electrek.co",
+        "9to5mac.com",
+        "spaceexplored.com",
+        "9to5toys.com",
+        "9to5terminal.com",
+        "dronedj.com",
+        "9to5google.com"
+      ]
+    }
+  ],
+  "version": 2
+}
