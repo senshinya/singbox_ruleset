@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "b82yxres.cn",
+        "kuxiaomiao.com",
+        "9xsecndns.cn",
+        "0co3geye.cn",
+        "ykimg.com",
+        "wenyupages.com",
+        "ukoo.com.cn",
+        "youqoo.net",
+        "kuxiaomiao.com.cn",
+        "ns6mitkxo.cn",
+        "tudou.com",
+        "wingsmobiletek.cn",
+        "52mtkvideo.cn",
+        "yoqoo.net",
+        "gamenow.club",
+        "yoqoo.com",
+        "yoqoo.tv",
+        "youku.com",
+        "sogoodtech1.cn",
+        "kuxiaomiao.net",
+        "youku.com.cn",
+        "yodou.com",
+        "kumiao.tv",
+        "sk2cdsnw.cn",
+        "yoku.net.cn",
+        "youku.org",
+        "wwc.alicdn.com",
+        "2isbbess.cn",
+        "33lwhaoinc.cn",
+        "yoqoo.net.cn",
+        "kumiao.com",
+        "kuxiaomiao.cn",
+        "e8h2ty.tdum.alibaba.com",
+        "soku.com"
+      ],
+      "ip_cidr": [
+        "106.11.0.0/16"
+      ]
+    }
+  ],
+  "version": 2
+}
