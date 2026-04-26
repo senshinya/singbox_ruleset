@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "a-map.link",
+        "amapauto.com",
+        "autonavi.com",
+        "a-map.vip",
+        "amap.com",
+        "anav.com",
+        "a-map.cn",
+        "gaode.com",
+        "a-map.co"
+      ]
+    }
+  ],
+  "version": 2
+}
