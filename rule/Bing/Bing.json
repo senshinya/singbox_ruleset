@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bingagencyawards.com",
+        "bing.com.cn",
+        "bingads.com",
+        "bingsandbox.com",
+        "bingvisualsearch.com",
+        "bingapistatistics.com",
+        "bingworld.com",
+        "bing.net",
+        "bing.com"
+      ]
+    }
+  ],
+  "version": 2
+}
