@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dzcdn.net",
+        "deezer.com"
+      ]
+    }
+  ],
+  "version": 2
+}

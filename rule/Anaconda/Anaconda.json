@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "conda.io",
+        "anaconda.cloud",
+        "anaconda.com",
+        "anaconda.org"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,53 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ebaystatic.com",
+        "ebay.ie",
+        "e-bay.it",
+        "esmplus.com",
+        "ebay.ch",
+        "ebaycdn.net",
+        "ebay.com.ec",
+        "ebay.it",
+        "ebay.nl",
+        "ebay.co.za",
+        "ebay.com.ph",
+        "gmarket.co.kr",
+        "ebay.com",
+        "ebay.at",
+        "ebay.ca",
+        "ebay.pl",
+        "ebay.co.nz",
+        "ebayinc.com",
+        "ebay.pk",
+        "ebay.in",
+        "ebay-us.com",
+        "ebay.be",
+        "ebay.com.ar",
+        "ebay.com.mt",
+        "ebay.com.sg",
+        "about.co.kr",
+        "ebay.ph",
+        "ebayprivacycenter.com",
+        "ebayrtm.com",
+        "ebay.lt",
+        "ebay.co.krhe",
+        "ebay.cn",
+        "ebayimg.com",
+        "ebaykorea.com",
+        "ebaymainstreet.com",
+        "ebay.com.au",
+        "g9.co.kr",
+        "ebay.co.uk",
+        "ebay.fr",
+        "ebay.co.ve",
+        "auction.co.kr",
+        "ebay.com.hk",
+        "ebay.es",
+        "ebay.de"
+      ]
+    }
+  ],
+  "version": 2
+}
