@@ -5,7 +5,33 @@ import logging
 import requests
 import zipfile
 import json
+import ipaddress
 from collections import defaultdict
+
+
+def sort_ip_cidr(ip_cidr):
+    """去重、聚合（合并相邻/重叠网段）并按网络地址数值排序。
+
+    IPv4 在前，IPv6 在后；覆盖范围与原始列表完全等价，仅压缩为最小 CIDR 集合。
+    无法解析的条目按字符串排序追加在后。
+    """
+    v4 = []
+    v6 = []
+    invalid = []
+    for cidr in set(ip_cidr):
+        try:
+            net = ipaddress.ip_network(cidr, strict=False)
+            (v4 if net.version == 4 else v6).append(net)
+        except ValueError:
+            invalid.append(cidr)
+    collapsed = list(ipaddress.collapse_addresses(v4)) + list(ipaddress.collapse_addresses(v6))
+    collapsed.sort(key=lambda n: (n.version, int(n.network_address), n.prefixlen))
+    return [str(n) for n in collapsed] + sorted(invalid)
+
+
+def sort_unique(values):
+    # 去重并按字符串排序
+    return sorted(set(values))
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -105,17 +131,17 @@ class RuleSet(object):
         if len(domain) != 0 or len(domain_keyword) != 0 or len(domain_suffix) != 0 or len(ip_cidr) != 0:
             rule = dict()
             if len(domain) != 0:
-                rule['domain'] = list(set(domain))
+                rule['domain'] = sort_unique(domain)
             if len(domain_keyword) != 0:
-                rule['domain_keyword'] = list(set(domain_keyword))
+                rule['domain_keyword'] = sort_unique(domain_keyword)
             if len(domain_suffix) != 0:
-                rule['domain_suffix'] = list(set(domain_suffix))
+                rule['domain_suffix'] = sort_unique(domain_suffix)
             if len(ip_cidr) != 0:
-                rule['ip_cidr'] = list(set(ip_cidr))
+                rule['ip_cidr'] = sort_ip_cidr(ip_cidr)
             self.rules.append(rule)
         if len(process_name) != 0:
             rule = dict()
-            rule['process_name'] = list(set(process_name))
+            rule['process_name'] = sort_unique(process_name)
             self.rules.append(rule)
 
 subs = ["Assassin'sCreed", "Cloud"]
