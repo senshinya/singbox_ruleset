@@ -13,10 +13,10 @@ jobs:
       contents: write
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: "Setup sing-box"
         env:
-          SING_BOX_DEB_URL: "https://github.com/SagerNet/sing-box/releases/download/v1.10.0-beta.5/sing-box_1.10.0-beta.5_linux_amd64.deb"
+          SING_BOX_DEB_URL: "https://github.com/SagerNet/sing-box/releases/download/v1.13.13/sing-box_1.13.13_linux_amd64.deb"
         run: |
             set -Eeuo pipefail
             wget -O sing-box.deb $SING_BOX_DEB_URL

@@ -48,7 +48,7 @@ def init():
     # 删除已有文件夹
     dir_path = os.path.join(current_dir, 'rule')
     if os.path.exists(dir_path) and os.path.isdir(dir_path):
-        logging.warning('{} exists, delete!', dir_path)
+        logging.warning(f'{dir_path} exists, delete!')
         shutil.rmtree(dir_path)
     os.makedirs(dir_path)
 
