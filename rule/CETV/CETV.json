@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "centv.cn",
+        "cetv.cn",
+        "centv.net.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

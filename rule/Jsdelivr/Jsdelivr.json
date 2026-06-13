@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "esm.run",
+        "jsdelivr.com",
+        "jsdelivr.net"
+      ]
+    }
+  ],
+  "version": 2
+}

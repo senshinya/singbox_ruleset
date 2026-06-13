@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "linguee.com",
+        "deepl.com"
+      ]
+    }
+  ],
+  "version": 2
+}

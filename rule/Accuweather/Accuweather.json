@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "accuweather.com"
+      ]
+    }
+  ],
+  "version": 2
+}

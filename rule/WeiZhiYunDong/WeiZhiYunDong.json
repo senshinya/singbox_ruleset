@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dicom365.com",
+        "weiyunyingxiang.com",
+        "wedcm.com",
+        "dycom365.com"
+      ]
+    }
+  ],
+  "version": 2
+}
