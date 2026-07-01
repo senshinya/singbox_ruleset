@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nikkei.co.jp",
+        "nikkei.com",
+        "nikkei.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

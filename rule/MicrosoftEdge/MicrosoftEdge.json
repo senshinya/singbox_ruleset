@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "edge.activity.windows.com",
+        "msedge.api.cdp.microsoft.com",
+        "iecvlist.microsoft.com",
+        "edge.microsoft.com"
+      ]
+    }
+  ],
+  "version": 2
+}
