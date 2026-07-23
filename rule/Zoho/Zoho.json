@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zoho.eu",
+        "zohomerchandise.com",
+        "zoho.com.au",
+        "zohostatic.com",
+        "zohouniversity.com",
+        "zohostatic.in",
+        "zohowebstatic.com",
+        "zohopublic.com",
+        "zohomeetups.com",
+        "zohoschools.com",
+        "zohocdn.com",
+        "zoho.com",
+        "zoho.in"
+      ]
+    }
+  ],
+  "version": 2
+}

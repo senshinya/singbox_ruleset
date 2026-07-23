@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "appleid.cdn-apple.com",
+        "appleid.apple.com",
+        "idmsa.apple.com",
+        "gsa.apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}
