@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pypi.io",
+        "python.org",
+        "pythonhosted.org",
+        "pycon.org",
+        "pypi.org",
+        "pypa.io"
+      ]
+    }
+  ],
+  "version": 2
+}
