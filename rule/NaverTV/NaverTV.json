@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "naver.com",
+        "smartmediarep.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "wimpmusic.com",
+        "tidal.com",
+        "tidal-cms.s3.amazonaws.com",
+        "tidalhifi.com"
+      ]
+    }
+  ],
+  "version": 2
+}

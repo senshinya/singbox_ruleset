@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "grazie.ai",
+        "intellij.com",
+        "datalore.io",
+        "intellij.org",
+        "jetbrains.com",
+        "jetbrains.org",
+        "jetbrains.team",
+        "jetbrains.io",
+        "kotlinconf.com",
+        "kotlinlang.org",
+        "jetbrains.net",
+        "jetbrains.space",
+        "intellij.net",
+        "jetbrains.ai"
+      ]
+    }
+  ],
+  "version": 2
+}

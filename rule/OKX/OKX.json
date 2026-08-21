@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "okx.com",
+        "okex.com",
+        "oklink.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kmplayer.com",
+        "pandora.tv"
+      ]
+    }
+  ],
+  "version": 2
+}
