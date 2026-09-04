@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dood.so",
+        "dood.video",
+        "doodcdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}

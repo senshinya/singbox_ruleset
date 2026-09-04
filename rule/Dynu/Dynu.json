@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dynu.com",
+        "dynu.net",
+        "freeddns.org"
+      ]
+    }
+  ],
+  "version": 2
+}

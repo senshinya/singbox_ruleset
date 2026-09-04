@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "flipboard.com",
+        "flipchina.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
