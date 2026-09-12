@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bintray.com",
+        "jfrog.com",
+        "jfrog.org"
+      ]
+    }
+  ],
+  "version": 2
+}

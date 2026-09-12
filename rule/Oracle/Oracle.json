@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "en25.com",
+        "a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com",
+        "bronto.com",
+        "addthis.com",
+        "oracle.com",
+        "oracleimg.com",
+        "addthiscdn.com",
+        "java.com",
+        "covid19-rx.org",
+        "java",
+        "addthis.com.edgekey.net",
+        "bluekai.com",
+        "eloquapreview.com",
+        "sun.com",
+        "eloquaeditors.com",
+        "oracleinfinity.io",
+        "oraclefoundation.org",
+        "ateam-oracle.com",
+        "covid19rx.org",
+        "eloqua.com",
+        "responsys.net",
+        "oraclecloud.com",
+        "java.net",
+        "addthisedge.com",
+        "oracle"
+      ]
+    }
+  ],
+  "version": 2
+}
