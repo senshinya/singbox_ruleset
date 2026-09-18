@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "apps.apple.com",
+        "itunes.apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}

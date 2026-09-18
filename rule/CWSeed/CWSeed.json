@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "edge.cwtv-vod-ext.top.comcast.net",
+        "cwtv-amd-akamai.akamaized.net"
+      ],
+      "domain_suffix": [
+        "cwseed.com",
+        "thecwvideo.com",
+        "cwtv.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.cw.seed.android",
+        "com.cw.fullepisodes.android"
+      ]
+    }
+  ],
+  "version": 2
+}

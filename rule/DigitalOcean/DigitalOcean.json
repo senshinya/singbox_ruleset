@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nginxconfig.io",
+        "do.co",
+        "digitaloceanspaces.com",
+        "digitalocean.com"
+      ]
+    }
+  ],
+  "version": 2
+}

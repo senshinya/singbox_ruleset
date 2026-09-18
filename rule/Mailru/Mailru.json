@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "imgsmail.ru",
+        "mycdn.me",
+        "mail.ru"
+      ]
+    }
+  ],
+  "version": 2
+}
