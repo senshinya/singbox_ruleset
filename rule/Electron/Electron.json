@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "electronjs.org"
+      ]
+    }
+  ],
+  "version": 2
+}

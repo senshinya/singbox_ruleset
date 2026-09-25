@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmcdn.net",
+        "dai.ly",
+        "dmxleo.com",
+        "dm-event.net",
+        "dailymotion.com"
+      ]
+    }
+  ],
+  "version": 2
+}

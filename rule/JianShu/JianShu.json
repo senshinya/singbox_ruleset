@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jianshu.io",
+        "baijii.com",
+        "shengmingfa.com",
+        "jianshuapi.com",
+        "jianshu.com"
+      ]
+    }
+  ],
+  "version": 2
+}

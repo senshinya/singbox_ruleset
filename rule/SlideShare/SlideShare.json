@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "slidesharecdn.com",
+        "slideshare.com",
+        "slideshare.net"
+      ]
+    }
+  ],
+  "version": 2
+}

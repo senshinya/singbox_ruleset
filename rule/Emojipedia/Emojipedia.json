@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "emojipedia.org",
+        "worldemojiday.com",
+        "worldemojiawards.com"
+      ]
+    }
+  ],
+  "version": 2
+}

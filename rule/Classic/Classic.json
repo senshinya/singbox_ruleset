@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "europe.battle.net",
+        "useast.battle.net",
+        "uswest.battle.net",
+        "asia.battle.net"
+      ]
+    }
+  ],
+  "version": 2
+}
