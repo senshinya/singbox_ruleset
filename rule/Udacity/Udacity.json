@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "udacity.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "themoviedb.org",
+        "tmdb.org"
+      ]
+    }
+  ],
+  "version": 2
+}

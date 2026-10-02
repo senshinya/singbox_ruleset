@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "chinanews.com.cn",
+        "chinanews.com",
+        "cns.com.cn",
+        "ecns.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

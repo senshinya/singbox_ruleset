@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ngaa.net.cn",
+        "ngaa.org.cn",
+        "chinagslb.com",
+        "sinogslb.net",
+        "chinagslb.net",
+        "ngaa.cn",
+        "ngaa.info",
+        "ngaa.top",
+        "cngslb.cn",
+        "ngaa.com.cn",
+        "ispcache.cn",
+        "ngaacdn.cn",
+        "sinogslb.cn",
+        "ngaagslb.cn",
+        "cngslb.com",
+        "ispcache.net",
+        "sinocache.net",
+        "ngaacdn.net",
+        "sinocache.com.cn",
+        "ngaagslb.net",
+        "ngaagslb.com",
+        "sinogslb.com",
+        "sinocache.cn",
+        "speedin.shop",
+        "cngslb.net",
+        "kuaifan.shop",
+        "ngaacdn.com",
+        "ngaa.shop",
+        "chinagslb.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

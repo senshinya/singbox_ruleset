@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "freecodecamp.org"
+      ]
+    }
+  ],
+  "version": 2
+}

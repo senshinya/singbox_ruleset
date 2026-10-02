@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bestvcdn.net",
+        "bestvcdn.com",
+        "bestvcdn.com.cn",
+        "bbtv.cn",
+        "smgbb.cn",
+        "bestv.com.cn",
+        "bestvcdn.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
