@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ctfassets.net",
+        "contentful.com"
+      ]
+    }
+  ],
+  "version": 2
+}
