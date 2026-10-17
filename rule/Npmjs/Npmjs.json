@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "npmjs.com",
+        "npm.community",
+        "npmjs.org"
+      ]
+    }
+  ],
+  "version": 2
+}

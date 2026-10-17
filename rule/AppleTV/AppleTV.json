@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "play-edge.itunes.apple.com",
+        "hls.itunes.apple.com",
+        "tv.applemusic.com",
+        "hls-amt.itunes.apple.com",
+        "np-edge.itunes.apple.com",
+        "uts-api.itunes.apple.com"
+      ],
+      "domain_suffix": [
+        "tv.apple.com"
+      ]
+    },
+    {
+      "process_name": [
+        "TV"
+      ]
+    }
+  ],
+  "version": 2
+}
