@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sling.com",
+        "movenetworks.com",
+        "slinginternational.com",
+        "movetv.com",
+        "dishworld.com"
+      ]
+    }
+  ],
+  "version": 2
+}

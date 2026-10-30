@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cybertrust.co.jp",
+        "cybertrust.ne.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

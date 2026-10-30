@@ -1,0 +1,63 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "yandex.tm",
+        "yandex.co.il",
+        "yandex.kg",
+        "yandex.de",
+        "ya.ru",
+        "yandex.com.tr",
+        "yandex.st",
+        "yandex.fi",
+        "yandex.aero",
+        "yandex.sx",
+        "yandex.com.ua",
+        "yandex.net",
+        "yandex.fr",
+        "yandex",
+        "yandex.com.ru",
+        "yandex.com.am",
+        "yandex.ee",
+        "yandex.kz",
+        "yandex.az",
+        "yastatic.net",
+        "yandex.com",
+        "yandex.uz",
+        "yandex.eu",
+        "yandex.jobs",
+        "yandex.lt",
+        "xn--d1acpjx3f.xn--p1ai",
+        "yandex.ru",
+        "yandex.tj",
+        "yandex.md",
+        "yadi.sk",
+        "yandex.by",
+        "yandex.ua",
+        "yandex.com.ge",
+        "yandex.lv"
+      ],
+      "ip_cidr": [
+        "87.250.224.0/19",
+        "37.140.128.0/18",
+        "2a02:6b8::/29",
+        "100.43.64.0/19",
+        "2620:10f:d000::/44",
+        "199.21.96.0/22",
+        "213.180.192.0/19",
+        "141.8.128.0/18",
+        "5.45.192.0/18",
+        "5.255.192.0/18",
+        "77.88.0.0/18",
+        "93.158.128.0/18",
+        "37.9.64.0/18",
+        "178.154.192.0/19",
+        "185.32.187.0/24",
+        "178.154.128.0/18",
+        "95.108.128.0/17",
+        "199.36.240.0/22"
+      ]
+    }
+  ],
+  "version": 2
+}
