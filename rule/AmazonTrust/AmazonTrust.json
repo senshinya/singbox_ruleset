@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "awstrust.com",
+        "amazontrust.com",
+        "ss2.us"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "wanfangdata.com.cn",
+        "wf.pub"
+      ]
+    }
+  ],
+  "version": 2
+}

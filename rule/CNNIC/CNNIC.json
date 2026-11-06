@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "snsroot.cn",
+        "apac.cn",
+        "cnnic.com.cn",
+        "dnscert.cn",
+        "apirc.org",
+        "cdns.cn",
+        "cnnic.net.cn",
+        "cyberspace.cn",
+        "6pilot.cn",
+        "internet.cn",
+        "myid.cn",
+        "cdnc.org",
+        "cnidp.cn",
+        "v6pilot.cn",
+        "cnnic.net",
+        "cnnic.ac.cn",
+        "dns-cert.cn",
+        "cnnic.org.cn",
+        "cnnicresearch.cn",
+        "djt.org.cn",
+        "sdns.cn",
+        "surdata.cn",
+        "idatacn.cn",
+        "dnswood.cn",
+        "cfidlab.cn",
+        "nanel.cn",
+        "cfid-lab.cn",
+        "apira.org",
+        "dnslab.cn",
+        "idpcn.cn",
+        "apac.org.cn",
+        "cilab.cn",
+        "cnnic.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

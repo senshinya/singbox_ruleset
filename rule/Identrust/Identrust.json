@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "identrust.com",
+        "identrust.net",
+        "identrust.co.uk"
+      ]
+    }
+  ],
+  "version": 2
+}

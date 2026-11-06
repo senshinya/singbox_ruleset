@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "data.flurry.com"
+      ]
+    }
+  ],
+  "version": 2
+}
