@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tumblr.co",
+        "tumblr.com",
+        "tmblr.co"
+      ]
+    }
+  ],
+  "version": 2
+}
