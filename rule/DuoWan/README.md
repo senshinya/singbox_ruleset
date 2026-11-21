@@ -1,0 +1,9 @@
+# DuoWan
+
+#### 规则链接
+
+**Github**
+https://raw.githubusercontent.com/senshinya/singbox_ruleset/main/rule/DuoWan/DuoWan.srs
+
+**CDN**
+https://cdn.jsdelivr.net/gh/senshinya/singbox_ruleset@main/rule/DuoWan/DuoWan.srs

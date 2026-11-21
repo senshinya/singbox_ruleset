@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hitv.com",
+        "mgtv.com",
+        "hunantv.com",
+        "imgo.tv",
+        "hunaniptv.com",
+        "hifuntv.com",
+        "tazai.com"
+      ]
+    }
+  ],
+  "version": 2
+}
