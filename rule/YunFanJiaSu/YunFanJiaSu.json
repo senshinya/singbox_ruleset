@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "yfscdn.net",
+        "yfcache.com",
+        "yfcdn.net",
+        "cdndns2.cn",
+        "yunfancdn.com.cn",
+        "mogengyun.cn",
+        "yfcloud.io",
+        "yflive.net",
+        "mogecloud.com",
+        "yflive.cn",
+        "yfcache.cn",
+        "mogengyun.net",
+        "yfcloud.com",
+        "mogecloud.net",
+        "yunfancdn.cn",
+        "cdndns2.net",
+        "yfcdn.cn",
+        "yunfancdn.net",
+        "yfdns.cn",
+        "yfp2p.net",
+        "wertalk.com",
+        "yfdns.net",
+        "yunfandns.cn",
+        "yfcalc.com",
+        "mogecloud.cn",
+        "mogengyun.com",
+        "cdnnodedns.cn",
+        "yfdts.net",
+        "yfcloud.work",
+        "yfscdn.com",
+        "yunfancdn.com",
+        "yunfandns.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pbs.org"
+      ]
+    }
+  ],
+  "version": 2
+}

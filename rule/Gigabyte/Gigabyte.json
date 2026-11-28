@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sni1dcb6gl.wpc.edgecastcdn.net",
+        "gigabyte.cn",
+        "gigabyte2.azureedge.net",
+        "gigabyte.com",
+        "aoruszone.cn",
+        "aorus.com",
+        "sa78gs.wpc.edgecastcdn.net"
+      ]
+    }
+  ],
+  "version": 2
+}
